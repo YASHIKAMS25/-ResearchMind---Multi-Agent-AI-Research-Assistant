@@ -60,6 +60,7 @@ researchmind/
 ├── requirements.txt
 ├── .env
 └── README.md
+
 ⚙️ Installation
 1. Clone the repository
 git clone https://github.com/yourusername/researchmind.git
@@ -113,8 +114,7 @@ Improvements
 Final Verdict
 📖 Example
 Input
-Topic:
-Future of Quantum Computing
+Topic: Future of Quantum Computing
 Output
 Introduction
 
@@ -152,7 +152,11 @@ Verdict
 High-quality research report.
 📸 UI Preview
 
-Add your application screenshot here.
+<img width="1366" height="768" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/cf6398e9-4878-45a0-80ea-008da5fd76f1" />
+
+<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/a282d4fe-275b-4ef3-9aae-8f4be3cfec12" />
+
+
 
 README.md
 images/
